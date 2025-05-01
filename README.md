@@ -1,5 +1,5 @@
 Aquí el proyecto listo para descargar.
-Puede descomprise y ejecutarlo con:
+Puede descomprimirlo y ejecutarlo con:
 
 npm install
 npm start
